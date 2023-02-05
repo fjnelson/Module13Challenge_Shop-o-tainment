@@ -25,6 +25,14 @@ Video of readme creation
 [Video Demo](placeholder)
 
 ## Credits
+Starter Code: https://github.com/coding-boot-camp/fantastic-umbrella
+Github: Xandromus - April 2020
+
+Contribution: https://github.com/kas500/e-commerce-back-end
+Github: kas500 - Dec 2022
+
+Contribution: https://github.com/Gareth-Kwan/e-commerce-back-end
+Github: Gareth-Kwan - Dec 2022
 
 ## License
 
