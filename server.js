@@ -11,5 +11,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(routes);
 
 sequelize.sync({ force: false }).then(() => {
-  app.listen(PORT, () => console.log(`Port ${PORT} is open.`));
+  app.listen(PORT, () => {
+    console.log(`Port ${PORT} is open`);
+  });
 });
