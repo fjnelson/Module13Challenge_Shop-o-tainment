@@ -17,12 +17,12 @@ N/A
 open integrated terminal for index.js and run 'npm i'
 
 ## Usage
-Screenshot of readme creation
-![alt text](placeholder) <br />
-![alt text](placeholder)
+Screenshot of insomnia
+![alt text](./assets/Capture.JPG)
+
 
 Video of readme creation
-[Video Demo](placeholder)
+[Video Demo](https://drive.google.com/file/d/1f70XMGy67wpm0J1gBvjvUnaJsf6EiEoi/view)
 
 ## Credits
 Starter Code: https://github.com/coding-boot-camp/fantastic-umbrella
