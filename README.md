@@ -5,9 +5,10 @@
 Bootcamp: Module 13 Challenge <br />
 Object-Relational Mapping (ORM) Challenge: E-commerce Back End <br />
 Codebase correction that follows accessibility standards so that the site is optimized for search engines <br />
-Uses: MySQL 2: 3.0.1<br />
-Uses: dotenv: 16.0.3<br />
-Uses: Sequelize: 6.28.0
+Uses: MySQL 2<br />
+Uses: dotenv<br />
+Uses: Sequelize<br />
+Uses: Express
 ## Table of Contents (Optional)
 
 N/A
